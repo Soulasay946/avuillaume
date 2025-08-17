@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "fr-FR"
-title: "Bernard Salanié — Recherche et code"
+title: "X"
 title_separator: "-"
-name: &name "Bernard Salanié"
+name: &name "Anthony Vuillaume"
 description: &description "Recherche et code"
 url: https://github.com/Soulasay946/avuillaume.git # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
