@@ -9,12 +9,9 @@ redirect_from:
 ---
 
 
-I am the Sami Mnaymneh Professor at the [Department of Economics](https://econ.columbia.edu) of Columbia University,  in New York City.
+Je suis en première année de doctorat d'économie au sein du CEPS à l'ENS Paris-Saclay et de la SCOR.
 
-My research fields are in applied microeconomics (insurance; labor; public economics) and in theoretical and applied econometrics.
+Mes recherches portent sur l'ajout de programmes de prévention dans les contrats d'assurance santé et décès. 
 
-I have taught microeconomics, macroeconomics, econometrics at various levels and in various places.
+J'enseigne l'économie publique et l'économie de la concurrence en L2 à l'université Paris Dauphine.
 
-This year I will  be teaching Econometrics (1st year PhD) and I will serve as the Program Director for our [Masters program](https://econ.columbia.edu/masters/).
-
-Here are [a short biography](../files/BernardSalanieShortBio.pdf) and [a very short one](../files/BernardSalanieVeryShortBio.pdf).

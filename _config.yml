@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale: "en-US"
-title: "Bernard Salani&eacute;'s Website"
+locale: "fr-FR"
+title: "Bernard Salanié — Recherche et code"
 title_separator: "-"
-name: &name "Bernard Salani&eacute;"
-description: &description "Research and code"
+name: &name "Bernard Salanié"
+description: &description "Recherche et code"
 url: https://bsalanie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "bsalanie/bsalanie.github.io"
+repository: "Soulasay946/bsalanie.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name: "Bernard Salani&eacute"
-  avatar: "profile.png"
-  bio: "Sami Mnaymneh Professor of Economics at Columbia University"
+  name: "Anthony Vuillaume"
+  avatar: "bio-photo.jpg"
+  bio: ""
   location:
   employer:
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?user=Hfat62oAAAAJ&hl=en"
-  email: "bsalanie at columbia.edu"
+  #googlescholar: "https://scholar.google.com/citations?user=Hfat62oAAAAJ&hl=en"
+  email: "anthony.vuillaume@ens-paris-saclay.fr"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -94,14 +94,14 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "bsalanie"
+  #github: "bsalanie"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin:
-  orcid: "http://orcid.org/0000-0002-7072-5811"
+  linkedin: "https://www.linkedin.com/in/anthony-vuillaume/"
+#  orcid: "http://orcid.org/0000-0002-7072-5811"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
